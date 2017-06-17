@@ -1,0 +1,9 @@
+E:\Estructura de datos\2da Parcial\Ejer22.2- Árbol binario-Ecuaciones\Ejer22.2- Árbol binario-Ecuaciones\bin\Debug\Ejer22.2- Árbol binario-Ecuaciones.exe.config
+E:\Estructura de datos\2da Parcial\Ejer22.2- Árbol binario-Ecuaciones\Ejer22.2- Árbol binario-Ecuaciones\bin\Debug\Ejer22.2- Árbol binario-Ecuaciones.exe
+E:\Estructura de datos\2da Parcial\Ejer22.2- Árbol binario-Ecuaciones\Ejer22.2- Árbol binario-Ecuaciones\bin\Debug\Ejer22.2- Árbol binario-Ecuaciones.pdb
+E:\Estructura de datos\2da Parcial\Ejer22.2- Árbol binario-Ecuaciones\Ejer22.2- Árbol binario-Ecuaciones\obj\Debug\Ejer22.2- Árbol binario-Ecuaciones.csprojResolveAssemblyReference.cache
+E:\Estructura de datos\2da Parcial\Ejer22.2- Árbol binario-Ecuaciones\Ejer22.2- Árbol binario-Ecuaciones\obj\Debug\Ejer22._2__Árbol_binario_Ecuaciones.Form1.resources
+E:\Estructura de datos\2da Parcial\Ejer22.2- Árbol binario-Ecuaciones\Ejer22.2- Árbol binario-Ecuaciones\obj\Debug\Ejer22._2__Árbol_binario_Ecuaciones.Properties.Resources.resources
+E:\Estructura de datos\2da Parcial\Ejer22.2- Árbol binario-Ecuaciones\Ejer22.2- Árbol binario-Ecuaciones\obj\Debug\Ejer22.2- Árbol binario-Ecuaciones.csproj.GenerateResource.Cache
+E:\Estructura de datos\2da Parcial\Ejer22.2- Árbol binario-Ecuaciones\Ejer22.2- Árbol binario-Ecuaciones\obj\Debug\Ejer22.2- Árbol binario-Ecuaciones.exe
+E:\Estructura de datos\2da Parcial\Ejer22.2- Árbol binario-Ecuaciones\Ejer22.2- Árbol binario-Ecuaciones\obj\Debug\Ejer22.2- Árbol binario-Ecuaciones.pdb
